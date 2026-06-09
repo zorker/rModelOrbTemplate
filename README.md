@@ -2,6 +2,8 @@
 
 The inspiration for this addon was to bring Diablo like player unitframe orbs for health and power back into the game. I did something similar years prior.
 
+Addon: https://addons.wago.io/addons/rmodelorbtemplate
+
 The idea was to create an XML template that houses all frame types needed so you can spawn as many of them as you like.
 
 To make the template visually appealing a ModelScene is used which houses a WoW model that fits into the orb environment. The addon comes with over 200 preconfigured models that can be picked from.
